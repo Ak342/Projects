@@ -1,0 +1,88 @@
+/*body{
+	margin:0px;
+	padding:0px;
+}
+*/
+
+.bg{
+	background-image:url('My Pics/imgback.jpeg');
+	height:800px;
+	background-repeat:no-repeat;
+	background-size:100% 100%;
+}
+
+
+#name{
+	font-size:35px;
+}
+
+#menu{
+	width:70%;
+}
+
+
+.wd{
+	font-size:20px;
+	font-weight:bold;
+}
+
+
+
+footer{
+	background-color:#443737;
+	color:white;
+	padding-left:20px;
+	padding-top:50px;
+	height:150px;
+}
+
+.footpad{
+	padding:20px;
+}
+
+
+#skillset1{
+	margin-bottom:50px;
+	display:none;
+}
+
+#skillset2{
+	margin-bottom:50px;
+	display:none;
+}
+
+
+
+
+/* PROJECTS PAGE */
+
+
+.bg2{
+	
+}
+
+
+
+
+
+
+
+/* MEDIA QUERIES */
+
+@media only screen and(max-width: 768px){
+	
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
